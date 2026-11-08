@@ -7,7 +7,7 @@
 
 [![Node.js](https://img.shields.io/badge/Node.js-22+-indigo?style=for-the-badge&logo=nodedotjs)](https://nodejs.org)
 [![Discord](https://img.shields.io/badge/Discord-@iyusztempest-indigo?style=for-the-badge&logo=discord)](#)
-<img src="https://img.shields.io/badge/Dev-IyuszTempest-indigo.svg?style=for-the-badge" alt="Developer">
+
 
 </div>
 
