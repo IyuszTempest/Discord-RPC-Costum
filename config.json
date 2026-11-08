@@ -1,0 +1,30 @@
+{
+  "clientId": "Your_appliacation_id",
+  "enabled": true,
+  "autoStart": true,
+  "time": {
+    "random": true,
+    "minHours": 40,
+    "maxHours": 70,
+    "customTime": {
+      "hours": 58,
+      "minutes": 45,
+      "seconds": 10
+    }
+  },
+  "presence": {
+    "name": "Menikahi Anna Yanami",
+    "details": "Akan Kunikahi walaupun 2D",
+    "state": "Sedang Menikah",
+    "largeImage": "https://i.pinimg.com/736x/3b/21/88/3b218853f0334650ee60c6d4b986621f.jpg",
+    "largeImageText": "Yanami Anna Best Girl",
+    "smallImage": "",
+    "smallImageText": "",
+    "buttons": [
+      {
+        "label": "MyWebsite",
+        "url": "https://iyusztempest.web.id"
+      }
+    ]
+  }
+}

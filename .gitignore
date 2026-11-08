@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+
+# Logs & Runtime files
+rpc.log
+rpc.pid
+*.log
+*.pid
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor / IDE
+.vscode/
+.idea/
+*.code-workspace
+
+# Environment
+.env
+.env.local

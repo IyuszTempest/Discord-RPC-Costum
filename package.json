@@ -1,0 +1,13 @@
+{
+  "name": "discord-presence-custom",
+  "version": "2.1.0",
+  "description": "Discord RPC — simple background presence setter",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "start:bg": "powershell -ExecutionPolicy Bypass -File start-silent.ps1"
+  },
+  "dependencies": {
+    "@xhayper/discord-rpc": "^1.2.0"
+  }
+}
