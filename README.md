@@ -1,9 +1,9 @@
 <div align="center">
 
-#  Discord RPC Costum 🎮
+#  Discord RPC Costum
 <img src="./preview/ss.png" width="280" style="border-radius: 50%; box-shadow: 0 0 20px rgba(255, 0, 255, 0.5);" alt="RPC">
 
-**Script kustom untuk mengatur **Discord Rich Presence** dengan mudah tanpa ribet.**
+**A lightweight, hassle-free Node.js script to customize and run your own Discord Rich Presence with ease.**
 
 [![Node.js](https://img.shields.io/badge/Node.js-22+-indigo?style=for-the-badge&logo=nodedotjs)](https://nodejs.org)
 [![Discord](https://img.shields.io/badge/Discord-@iyusztempest-indigo?style=for-the-badge&logo=discord)](#)
